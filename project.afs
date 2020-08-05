@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+# /dev/shm/uk4u/kyn2nteu
+
+export abstractfs_name="kyn2nteu"
