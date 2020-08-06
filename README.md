@@ -69,10 +69,15 @@ No claim of liability is made by anyone. Your accident is your accident. Use com
 
 https://en.wikipedia.org/wiki/Point-to-point_construction
 
+
 https://www.mcmaster.com/high-temperature-sleeving/
+
 https://www.mcmaster.com/high-temperature-sleeving/fiberglass-high-temperature-sleeving/
+
 https://www.mcmaster.com/high-temperature-sleeving/expandable-electrical-insulating-tube-sleeving/
+
 https://e3d-online.com/products/fibreglass-sleeving-for-insulating-thermistors-100mm
+
 https://www.mcmaster.com/high-temperature-sleeving/silica-high-temperature-sleeving/
 
 
