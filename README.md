@@ -94,7 +94,7 @@ Numbered directories of top-directories may be placed alongside top-directories 
 Templates should populate only the most usual directories. Not all directories need be populated for a project.
 
 
-
+```
 
 _lib	- software, records, etc, uniquely needed by specific CAD model
 
@@ -145,7 +145,6 @@ _lib	- software, records, etc, uniquely needed by specific CAD model
 	5050[z]-Motors/Steppers/Servos
 	5051[z]-RotaryBearings/RotaryShims
 	
-	
 	5052[z]-NutBlocks/PlatesEffectors/BracketsEffectors (typically belt tie-down points), etc.
 	5053-RESERVED
 	
@@ -195,7 +194,7 @@ to
 99[00]-import
 	RESERVED for future use
 
-
+```
 
 
 
