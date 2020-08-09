@@ -1,0 +1,55 @@
+
+https://openbuilds.com/projectresources/step-parts-library.162/
+https://openbuildspartstore.com/open-source-license
+Original third-party files in this directory were obtained from the above sources.
+
+...
+File and directory names labeled with 'orig' in their names, listed above, or under the 'orig' subdirectory, retain their original licenses, as stated below, unless public domain or fair use.
+
+...
+File and directory names labeled with 'mod' in their names, listed above, or under the 'mod' subdirectory, are modified versions of the original files, and also retain the original license, as stated below, unless public domain or fair use.
+
+...
+In the absense of any license explictly stated here or any prior license, files under this directory are then intended to be copyrighted by mirage335 under GPLv3 license.
+
+-
+Copyright (C) 2020  mirage335
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software Foundation,
+Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301  USA
+
+All files in this folder and subfolders, unless explicitly stated otherwise in this file or copyrighted by other authors, are copyrighted by mirage335 as described above.
+-
+
+
+_Creative Commons Attribution-ShareAlike 4.0 International License - OpenBuilds_
+Relevant files as declared above, obtained under 'Creative Commons Attribution-ShareAlike 4.0 International' license. This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+
+https://openbuilds.com/
+https://creativecommons.org/licenses/by-sa/4.0/
+
+As per https://openbuildspartstore.com/open-source-license .
+
+Author if supplied
+OpenBuilds, LLC
+
+Copyright notices if supplied
+"This design incorporates OpenBuilds, LLC design work(s) shared Open Source under the CC BY-SA 4.0 License."
+
+Title if supplied
+STEP Parts Library 1.5
+
+
+
+
