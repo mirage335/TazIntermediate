@@ -189,6 +189,7 @@ _lib	- software, records, etc, uniquely needed by specific CAD model
 	9095-frequent (most frequently used)
 	9099-Misc
 
+9100-KEEPOUT (solid objects used to mark regions reserved for future use)
 
 94[00]
 to
