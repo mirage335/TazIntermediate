@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
-# /dev/shm/uk4u/kyn2nteu
+# /dev/shm/uk4u/yo050wjd
 
-export abstractfs_name="kyn2nteu"
+export abstractfs_name="yo050wjd"
 
 
 
@@ -344,7 +344,7 @@ _removeFilePrefix ()
 	cd "$(_getScriptAbsoluteFolder)"
 	
 	
-	export standalone_abstractfs="/dev/shm/uk4u"/"kyn2nteu"
+	export standalone_abstractfs="/dev/shm/uk4u"/"yo050wjd"
 	export standalone_abstractfs_base=$(_getScriptAbsoluteFolder)
 	
 	
