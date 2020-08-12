@@ -101,7 +101,7 @@ Templates should populate only the most usual directories. Not all directories n
 
 ```
 
-_lib	- software, records, etc, uniquely needed by specific CAD model
+_lib	- software, records, etc, typically uniquely needed by specific CAD model
 
 00[00]-RESERVED (do NOT use)
 
@@ -188,6 +188,7 @@ _lib	- software, records, etc, uniquely needed by specific CAD model
 	9090z-Screws/Bolts
 	9095-frequent (most frequently used)
 	9099-Misc
+		zMisc (unsortred, typically uniquely needed by specific CAD model)
 
 9100-KEEPOUT (solid objects used to mark regions reserved for future use)
 
