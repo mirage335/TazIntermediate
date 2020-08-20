@@ -1,0 +1,39 @@
+###COMMENTS-magic-START###
+Top
+TazIntermediate
+
+...Hiearchy
+TazIntermediate
+
+...Paths
+/dev/shm/uk4u/kyn2nteu/TazIntermediate.fcstd
+
+
+
+Some bundles use only identical parts lists - these have been reduced to single line.
+
+'LimitSwitch'
+'LimitSwitch-forward'
+
+###COMMENTS-magic-stop###
+
+###MULTIPLIER-magic-START###
+1
+###MULTIPLIER-magic-stop###
+
+#bundle,dstpn,mult,qty,dst,mark,provider,path
+###BUNDLE-magic-START###
+LimitSwitch.fcstd,,3,3,,,,
+AxisY.fcstd,,1,1,,,,
+LulzBotExtruder_Example_Stock.fcstd,,1,1,,,,
+Slab.fcstd,,1,1,,,,
+Axis_X-Actuator.fcstd,,1,1,,,,
+AxisZ_Mid-Stationary.fcstd,,1,1,,,,
+AxisZ_Truck-Double.fcstd,,1,1,,,,
+###BUNDLE-magic-stop###
+
+#item,dstpn,mult,qty,dst,mark,provider,path
+###ITEM-magic-START###
+L Bracket Triple.step,,1,1,OpenBuilds,,,
+Black Angle Corner Connector.step,,1,1,OpenBuilds,,,
+###ITEM-magic-stop###

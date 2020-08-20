@@ -1,0 +1,5 @@
+#item,dstpn,mult,qty,dst,mark,provider,path
+Black Angle Corner Connector.step,,1,0,OpenBuilds,,,
+L Bracket Triple.step,,1,0,OpenBuilds,,,
+Micro Limit Switch Plate.step,,3,0,OpenBuilds,,,
+SS_01GL_E.FCStd,,3,0,,LimitSwitch,,
