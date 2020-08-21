@@ -1,0 +1,80 @@
+
+
+
+ATC Semitec 104GT-2
+	UNPROVEN - https://www.amazon.com/Gikfun-Semitic-104GT-2-Thermistor-Printer/dp/B00UFBIRVI/
+
+
+6mm x 20mm 24V Heater Cartridge >30W (>8Ohm, <72W, 3A)
+	https://www.amazon.com/BCZAMD-Upgraded-Cartridge-Accessories-Extruders/dp/B07SYZ3LGB/
+
+
+
+PTFE Shrink (Hypothetical)
+	https://www.mcmaster.com/7960K231/
+
+>1mm >0.040in PTFE Sleeving (Thermistor) or Minimum-Size Fiberglass Sleeving
+	~0.071in OD Expected _IF_ PTFE
+	https://www.mcmaster.com/5335K15/
+	https://www.mcmaster.com/7324T11/
+	https://www.mcmaster.com/87675K1/
+	
+
+>2mm >1/8in >0.080in Fiberglass Sleeving
+	https://www.mcmaster.com/2573K42/
+	https://www.mcmaster.com/7324T12/
+	https://www.mcmaster.com/87675K1/
+	
+
+>4mm >3/16in >0.150in Fiberglass Sleeving
+	https://www.mcmaster.com/2573K43/
+	https://www.mcmaster.com/7324T13/
+	https://www.mcmaster.com/88175K32/
+
+
+_Info_
+
+24v Ceramic Heater Cartridge
+	1x heater cartridge 24V 30W Heater cartridge needs 23cm leads with no connectors on end
+	24V/19Ohm 6mm x 20mm
+
+
+NTC 100k Thermistor
+	1x Semitec GT2 thermistor (100kOhm type) Thermistor needs 23cm leads with no connectors on end
+	1 100k ATC Semitec 104GT-2 thermistor, terminated with bare connector pin
+	EPCOS B57560G104F NTC Thermistor (most used thermistor in the reprap community)
+	#define TEMP_SENSOR_1 5
+	// 5 is 100K thermistor - ATC Semitec 104GT-2 (Used in ParCan & J-Head) (4.7k pullup)
+	5 : 100K thermistor - ATC Semitec 104GT-2/104NT-4-R025H42G (Used in ParCan, J-Head, and E3D) (4.7k pullup)
+
+
+
+_Reference_
+https://www.lulzbot.com/store/parts/lulzbot-v2-hexagon-hot-end
+https://www.amazon.com/RepRapDiscount-Hexagon-Hotend-Heater-Cartridge/dp/B00W4AIFBK
+http://www.reprapdiscount.com/hotends/67-hexagon-hotend-set.html
+
+http://www.makerfarm.com/index.php/hot-ends/hot-end-parts/100k-thermistor.html
+
+https://itworks3d.com/product/hexagon-hotend-assembly-2/
+
+
+
+https://itworks3d.com/product/thermistor-3d-printer/
+https://itworks3d.com/product/ceramic-heater-cartridge-hexagon-hotend/
+
+https://smile.amazon.com/Ceramic-Cartridge-Compatible-Printer-Creality/dp/B08B4DVN2V/
+
+
+https://download.lulzbot.com/TAZ/6.01/software/firmware/Marlin_TAZ-6.01_Single_v1.0.2.20_01d5281/Marlin/Configuration.h
+https://github.com/MarlinFirmware/Configurations/blob/import-2.0.x/config/default/Configuration.h
+
+https://aus3d.com.au/e3d-thermistor-cartridge
+
+https://www.mcmaster.com/ptfe-heat-shrink-tubing/
+https://www.mcmaster.com/high-temperature-sleeving/
+https://www.mcmaster.com/wire-protection-sleeving/expandable-electrical-insulating-tube-sleeving/
+https://www.mcmaster.com/wire-protection-sleeving/fiberglass-high-temperature-sleeving/
+
+
+https://reprapltd.com/reprappro/documentation/fisher-1/hot-end-assembly/index.html

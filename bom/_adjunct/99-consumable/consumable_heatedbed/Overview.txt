@@ -1,0 +1,38 @@
+
+PEI Printing Surface 10mil 11.8in x 11.8in (300mm x 300mm)
+	https://www.mcmaster.com/3697N36/
+
+3M adhesive sheet 5mil
+	https://www.amazon.com/Gizmo-Dorks-Adhesive-Transfer-Sheets/dp/B01HP2CEG8
+
+
+2000grit sandpaper (use sparingly)
+	https://www.amazon.com/3M-32044-Imperial-Wetordry-Sheet/dp/B0002MSY90/
+
+
+Springs
+	Bed leveling springs, and possibly extruder idler springs, for Taz5, Mini, are apparently C0180-020-0750-M .
+
+Heater
+	Heater is apparently either Tepco SHS80989 or National Plastic Heater NPH PC-BD0027.
+
+
+
+Other
+	Binder clips (assorted).
+	Isopropyl alcohol 91% (both lower and higher concentration expected to be less effective).
+	Paper towels.
+	M5 tee nuts (in case of damaged threads).
+	Various M3 screws.
+
+
+
+_Reference_
+http://devel.lulzbot.com/retail_parts/LulzBot_TAZ_Etched_Modular_Print_Bed_Heater_KT-HB0014/LulzBot_TAZ_Etched_Modular_Print_Bed_Heater_KT-HB0014_BoM.csv
+
+https://www.lulzbot.com/store/parts/24v-silicone-heater
+
+
+https://reprap.org/wiki/PEI_build_surface
+https://www.amazon.com/Gizmo-Dorks-Adhesive-Transfer-Sheets/dp/B01HP2CEG8
+

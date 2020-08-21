@@ -1,0 +1,28 @@
+###COMMENTS-magic-START###
+Vwheel-Corner-Eccentric-ThinHex
+
+...Hiearchy
+_kit+Vwheel-Corner-Eccentric-ThinHex
+
+...Paths
+/dev/shm/uk4u/yvkm0t91/Vwheel-Corner-Eccentric-ThinHex.fcstd
+
+###COMMENTS-magic-stop###
+
+###MULTIPLIER-magic-START###
+1
+###MULTIPLIER-magic-stop###
+
+#bundle,dstpn,mult,qty,dst,mark,provider,path
+###BUNDLE-magic-START###
+###BUNDLE-magic-stop###
+
+#item,dstpn,mult,qty,dst,mark,provider,path
+###ITEM-magic-START###
+Black Angle Corner Connector.step,,,1,,,,,
+Precision Shim 8 x 5 x 1.step,,,2,,,,,+
+Xtreme Solid V Wheel.step,,,1,,,,,$6.99
+Eccentric Spacer 6mm.step,,,1,,,,,$1.99
+Ball Bearing 5 x 16 x 5.step,,,2,,,,,+
+ThinHexNut-Modified Nylon Insert Lock Nut M5.step,,,1,,,,,
+###ITEM-magic-stop###

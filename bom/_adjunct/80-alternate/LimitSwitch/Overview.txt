@@ -1,0 +1,7 @@
+Micro limit switch plates may become difficult to obtain. Rather than having them custom fabricated, it may be worth trying the new 'Xtension Limit Switch Kit' from OpenBuilds in limited applications where they fit and the additional circuitry may be desirable.
+
+
+
+_Reference_
+https://openbuildspartstore.com/xtension-limit-switch-kit/
+

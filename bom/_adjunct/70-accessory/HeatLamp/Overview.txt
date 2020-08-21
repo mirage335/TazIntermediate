@@ -1,0 +1,3 @@
+As a reminder, pairs of  20W 12V halogen lights may be used in place of or in addition to direct bed heating. This may have the advantage of better ensuring the entire workpiece remains at thermoplastic temperature during printing, reducing such things as 'warping'.
+
+
