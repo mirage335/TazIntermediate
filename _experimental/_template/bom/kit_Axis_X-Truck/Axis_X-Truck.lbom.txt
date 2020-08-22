@@ -1,0 +1,27 @@
+###COMMENTS-magic-START###
+Axis_X-Truck
+
+...Hiearchy
+kit+Axis_X-Truck
+
+...Paths
+/dev/shm/uk4u/aksqpwou/Axis_X-Truck.fcstd
+
+###COMMENTS-magic-stop###
+
+###MULTIPLIER-magic-START###
+1
+###MULTIPLIER-magic-stop###
+
+#bundle,dstpn,mult,qty,dst,mark,provider,path
+###BUNDLE-magic-START###
+Vwheel-Corner-Eccentric-ThinHex.fcstd,,4,4,,,,
+###BUNDLE-magic-stop###
+
+#item,dstpn,mult,qty,dst,mark,provider,path
+###ITEM-magic-START###
+V-Slot 20x20x40mm.FCStd,,1,1,,,,
+Black Angle Corner Connector.step,,2,2,,,,
+V-Slot 20x60x220mm.fcstd,,1,1,,,,
+Cast Corner Bracket.step,,1,1,,,,
+###ITEM-magic-stop###
