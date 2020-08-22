@@ -1,0 +1,33 @@
+
+
+
+_Machine Panel_
+Z-Offset > Store Settings
+
+
+
+_OctoPrint_
+Read Z Offset
+Write Z Offset (manually modified)
+Save EEPROM Settings (if necessary)
+
+
+
+"
+Set the XYZ distance from the nozzle to the probe trigger-point.
+
+    The easiest way to get the Z offset value is to:
+    Home the Z axis.
+    Raise Z and deploy the probe.
+    Move Z down slowly until the probe triggers.
+    Take the current Z value and negate it. (5.2 => -5.2)
+    Set with M851 Z-5.2 and #define Z_PROBE_OFFSET_FROM_EXTRUDER -5.2.
+
+For X and Y you have to measure the distance.
+"
+
+
+
+_Reference_
+https://marlinfw.org/docs/gcode/M851.html
+https://www.youtube.com/watch?v=Q5M7DvdMcew

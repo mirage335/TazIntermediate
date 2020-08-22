@@ -1,17 +1,16 @@
 ###COMMENTS-magic-START###
-AlsoKnownAs...ModelOrBundleName
-ModelOrBundleName
+LimitSwitch
 
 ...Hiearchy
-Bundle+Bundle+ModelOrBundleName
+kit+LimitSwitch
 
 ...Paths
-/dev/shm/uk4u/.../UsuallyModelOrBundleName.fcstd
+/dev/shm/uk4u/x7ozzrsv/LimitSwitch.fcstd
 
 ###COMMENTS-magic-stop###
 
 ###MULTIPLIER-magic-START###
-3
+1
 ###MULTIPLIER-magic-stop###
 
 #bundle,dstpn,mult,qty,dst,mark,provider,path
@@ -20,6 +19,6 @@ Bundle+Bundle+ModelOrBundleName
 
 #item,dstpn,mult,qty,dst,mark,provider,path
 ###ITEM-magic-START###
-Micro Limit Switch Plate.step,,3,1,OpenBuilds,,,
-SS_01GL_E.FCStd,,3,1,,LimitSwitch,,
+Micro Limit Switch Plate.step,,,1,OpenBuilds,,,
+SS_01GL_E.FCStd,,,1,,LimitSwitch,,
 ###ITEM-magic-stop###

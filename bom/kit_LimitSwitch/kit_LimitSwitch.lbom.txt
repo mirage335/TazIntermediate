@@ -1,0 +1,24 @@
+###COMMENTS-magic-START###
+LimitSwitch
+
+...Hiearchy
+kit+LimitSwitch
+
+...Paths
+/dev/shm/uk4u/x7ozzrsv/LimitSwitch.fcstd
+
+###COMMENTS-magic-stop###
+
+###MULTIPLIER-magic-START###
+3
+###MULTIPLIER-magic-stop###
+
+#bundle,dstpn,mult,qty,dst,mark,provider,path
+###BUNDLE-magic-START###
+###BUNDLE-magic-stop###
+
+#item,dstpn,mult,qty,dst,mark,provider,path
+###ITEM-magic-START###
+Micro Limit Switch Plate.step,,,1,OpenBuilds,,,
+SS_01GL_E.FCStd,,,1,,LimitSwitch,,
+###ITEM-magic-stop###
