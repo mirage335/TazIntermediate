@@ -15,13 +15,13 @@ _kit+Axis_X-Truck
 
 #bundle,dstpn,mult,qty,dst,mark,provider,path
 ###BUNDLE-magic-START###
-Vwheel-Corner-Eccentric-ThinHex.fcstd,,,4
+Vwheel-Corner-Eccentric-ThinHex.fcstd,,4,4,,,,
 ###BUNDLE-magic-stop###
 
 #item,dstpn,mult,qty,dst,mark,provider,path
 ###ITEM-magic-START###
-V-Slot 20x20x40mm.FCStd,,,1
-Black Angle Corner Connector.step,,,2
-V-Slot 20x60x220mm.fcstd,,,1
-Cast Corner Bracket.step,,,1
+V-Slot 20x20x40mm.FCStd,,1,1,,,,
+Black Angle Corner Connector.step,,2,2,,,,
+V-Slot 20x60x220mm.fcstd,,1,1,,,,
+Cast Corner Bracket.step,,1,1,,,,
 ###ITEM-magic-stop###
