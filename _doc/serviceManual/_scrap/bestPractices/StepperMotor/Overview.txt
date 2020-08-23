@@ -1,0 +1,115 @@
+
+
+
+	NEMA 17 2.8mH 1.8
+SY42STH47-1504A
+55.0 N·cm
+2.8 V, 1.5A, 2.8mH
+'5 mm single'
+1.8deg 200Steps/Rev
+47 mm Length
+
+OpenBuilds stepper motors currently seem to be roughly comparable.
+
+Require closely comparable and reputable stepper motor. That is not a recommendation when precision, torque, or speed, may be paramount.
+
+Specific model SY42STH47-1504A stepper motor as used by AlephObjects for stock Taz machines, has demonstrated full precision driving of entire linear actuator as well as high torque at high speed.
+
+*) Measured by TazMega microscope to drive lead screws at approximately 3um precision, mechanically realizing full 1/16 microstepping resolution.
+*) Speeds of >>100mm/s with TazMega lead screws.
+*) Speeds of >>240mm/s with TazStiff belts.
+
+
+
+
+	40mm northbridge heatsink
+	Arctic Silver 7g Premium Silver Thermal Cooling Adhesive Set (ASTA-7G)
+
+If additional performance is required, any kind of 40mm northbridge heatsinks may be attached with thermal epoxy.
+
+Beware active (with fans) heatsinks may or may not cause poor print quality (including poor adhesion) due to additional vibration - this has not been evaluated extensively enough.
+
+
+
+_Plastic Shrinkage Compensation_
+Beware LulzBot machines typically are configured to 100.5 steps per mm. Any printers used industrially along such stock machines should include the same compensation, unless these machines are also to be used with other manufacturing tools (eg. laser) .
+
+
+
+_Trivia_
+Lead Screw is 8mm/Rev
+1/16microstep
+400microsteps/mm
+
+16tooth pulley
+2mm belt pitch
+200Steps/Rev
+1/16microstep
+100microsteps/mm
+6.25fullSteps/mm
+80mm/s Maximum Torque (Hypothetical)
+640mm/s Half Torque (Theoretical, 4000PPS)
+400mm/s 2500PPS
+
+14tooth pulley
+2mm belt pitch
+200Steps/Rev
+1/16microstep
+114.29microsteps/mm
+7.14fullSteps/mm
+~80mm/s Maximum Torque (Hypothetical)
+~640mm/s Half Torque (Theoretical, 4000PPS)
+~400mm/s 2500PPS
+12mm (~1cm) Diameter
+~2.5kg Half Torque
+~2kg Load (presumed)
+
+
+Recommended maximum X/Y travel speed is >660mm/s (~0.5m/s) (theoretical) up to 900mm/s. Recommended maximum acceleration is >6000mm/s^2 (~0.5g) up to 9000mm/s^2 or 7500mm/s^2 . Acceleration of 3000mm/s is suggested if necessary to reduce surface defects due to belt slippage (theoretical).
+
+Jerk, as a threshold before acceleration is applied, is suggested as a maximum of 20mm/s, but may be beneficial to reduce as far as possible.
+
+Acceleration of 1000mm/s^2 (0.1g) is expected to reach ~480mm/s speed mid-way between a 300mm travel distance (deceleration taking most of the remaining travel distance).
+
+
+Lulzbot known defaults...
+#define DEFAULT_AXIS_STEPS_PER_UNIT   {100.5,100.5,1600,830}  // default steps per unit for LulzBot TAZ
+#define DEFAULT_MAX_FEEDRATE          {800, 800, 3, 40}    // (mm/sec)
+#define DEFAULT_MAX_ACCELERATION      {9000,9000,100,10000}    // X, Y, Z, E maximum start speed for accelerated moves.
+
+#define DEFAULT_ACCELERATION          500    // X, Y, Z and E max acceleration in mm/s^2 for printing moves
+#define DEFAULT_RETRACT_ACCELERATION  3000   // X, Y, Z and E max acceleration in mm/s^2 for retracts
+#define DEFAULT_XYJERK                8.0    // (mm/sec)
+#define DEFAULT_ZJERK                 0.4     // (mm/sec)
+#define DEFAULT_EJERK                 10.0    // (mm/sec)
+
+
+_Reference_
+https://www.lulzbot.com/store/parts/nema-17-stepper-motor
+http://download.lulzbot.com/AO-100/hardware/electronics/spec_sheets/SY42STH47-1504A_stepperMotors.pdf
+https://reprap.org/wiki/Stepper_motor
+https://reprap.org/wiki/NEMA_17_Stepper_motor
+
+
+https://openbuildspartstore.com/nema-17-stepper-motor/
+http://motechmotor.com/productDetail-0104-32.html
+	MT-1704HS168A-0B
+
+https://www.amazon.com/Iverntech-Stepper-Printer-Machine-Robotics/dp/B07PS4BMSN/
+https://www.amazon.com/Torque-Bipolar-Stepper-Motor-Extruder/dp/B00PNEQUZ2/
+https://www.amazon.com/STEPPERONLINE-Stepper-Bipolar-Connector-compatible/dp/B00PNEQKC0/
+https://www.amazon.com/Stepper-Quimat-Connector-Mounting-Brackets/dp/B06XR8Q5Y2/
+	Possibly worth evaluating. Beware high inductance may or may not impact speed.
+
+https://openbuildspartstore.com/nema-23-stepper-motor-high-torque-series/
+
+
+https://forum.lulzbot.com/t/steps-unit-right-or-wrong/1830
+
+https://blog.prusaprinters.org/calculator_3416/
+https://dyzedesign.com/2016/10/printing-300-mm-s-part-1-basics-hardware/
+
+https://www.youtube.com/watch?v=7bCYyWF9Wb4
+https://www.youtube.com/watch?v=alsjrXy08jU
+
+

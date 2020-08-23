@@ -1,0 +1,29 @@
+###COMMENTS-magic-START###
+Tools-Frames-QuickChange
+
+...Hiearchy
+kit+Tools-Frames-QuickChange
+
+...Paths
+/dev/shm/uk4u/sh6a2t75/Tools-Frames-QuickChange.fcstd
+
+###COMMENTS-magic-stop###
+
+###MULTIPLIER-magic-START###
+1
+###MULTIPLIER-magic-stop###
+
+#bundle,dstpn,mult,qty,dst,mark,provider,path
+###BUNDLE-magic-START###
+###BUNDLE-magic-stop###
+
+#item,dstpn,mult,qty,dst,mark,provider,path
+###ITEM-magic-START###
+Cube Corner Connector.step,,6,6,,,,
+V-Slot 20x20x220mm.FCStd,,1,1,,,,
+V-Slot 20x20x60mm.FCStd,,2,2,,,,
+V-Slot 20x20x140mm.FCStd,,3,3,,,,
+V-Slot 20x20x80mm.FCStd,,1,1,,,,
+Joining Plate T.step,,1,1,,,,
+Joining Plate 90 Degree.step,,2,2,,,,
+###ITEM-magic-stop###

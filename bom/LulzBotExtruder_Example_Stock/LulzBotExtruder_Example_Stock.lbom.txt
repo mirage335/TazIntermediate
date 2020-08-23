@@ -16,12 +16,12 @@ TazIntermediate+LulzBotExtruder_Example_Stock
 
 #bundle,dstpn,mult,qty,dst,mark,provider,path
 ###BUNDLE-magic-START###
-Tools-Frames-QuickChange.fcstd,,,1
-Axis_X-Truck.fcstd,,,1
+Tools-Frames-QuickChange.fcstd,,1,1,,,,
+Axis_X-Truck.fcstd,,1,1,,,,
 ###BUNDLE-magic-stop###
 
 #item,dstpn,mult,qty,dst,mark,provider,path
 ###ITEM-magic-START###
-LulzBotExtruder_Carriage_Block.fcstd,,,1
-LulzBot_Extruder-LulzBot_Mount,,,1,,,,,$200.00
+LulzBotExtruder_Carriage_Block.fcstd,,1,1,,,,
+LulzBot_Extruder-LulzBot_Mount,,1,1,,,,,$200.00
 ###ITEM-magic-stop###

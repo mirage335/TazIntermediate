@@ -1,5 +1,22 @@
 #item,dstpn,mult,qty,dst,mark,provider,path
-Black Angle Corner Connector.step,,1,0,OpenBuilds,,,
+Ball Bearing 5 x 16 x 5.step,,8,0,,,,,+0
+Black Angle Corner Connector.step,,7,0,OpenBuilds,,,
+Cast Corner Bracket.step,,1,0,,,,
+Cube Corner Connector.step,,6,0,,,,
+Eccentric Spacer 6mm.step,,4,0,,,,,$1.99
+Joining Plate 90 Degree.step,,2,0,,,,
+Joining Plate T.step,,1,0,,,,
 L Bracket Triple.step,,1,0,OpenBuilds,,,
+LulzBotExtruder_Carriage_Block.fcstd,,1,0,,,,
+LulzBot_Extruder-LulzBot_Mount,,1,0,,,,,$200.00
 Micro Limit Switch Plate.step,,3,0,OpenBuilds,,,
+Precision Shim 8 x 5 x 1.step,,8,0,,,,,+0
 SS_01GL_E.FCStd,,3,0,,LimitSwitch,,
+ThinHexNut-Modified Nylon Insert Lock Nut M5.step,,4,0,,,,
+V-Slot 20x20x140mm.FCStd,,3,0,,,,
+V-Slot 20x20x220mm.FCStd,,1,0,,,,
+V-Slot 20x20x40mm.FCStd,,1,0,,,,
+V-Slot 20x20x60mm.FCStd,,2,0,,,,
+V-Slot 20x20x80mm.FCStd,,1,0,,,,
+V-Slot 20x60x220mm.fcstd,,1,0,,,,
+Xtreme Solid V Wheel.step,,4,0,,,,,$6.99
