@@ -15,15 +15,15 @@ TazIntermediate+AxisZ_Mid-Stationary
 
 #bundle,dstpn,mult,qty,dst,mark,provider,path
 ###BUNDLE-magic-START###
-Thruster-LeadScrew.fcstd,,,2
-Driver-LeadScrew.fcstd,,,2
-MidSquare.fcstd,,,2
+Thruster-LeadScrew.fcstd,,2,2,,,,
+Driver-LeadScrew.fcstd,,2,2,,,,
+MidSquare.fcstd,,2,2,,,,
 ###BUNDLE-magic-stop###
 
 #item,dstpn,mult,qty,dst,mark,provider,path
 ###ITEM-magic-START###
-gantryPlate.fcstd,,,5
-LeadScrew_8mm-520mm.fcstd,,,2
-V-Slot 20x40x500mm.FCStd,,,2
-Black Angle Corner Connector.step,,,5
+gantryPlate.fcstd,,5,5,,,,,$31
+LeadScrew_8mm-520mm.fcstd,,2,2,,,,
+V-Slot 20x40x500mm.FCStd,,2,2,,,,
+Black Angle Corner Connector.step,,5,5,,,,
 ###ITEM-magic-stop###

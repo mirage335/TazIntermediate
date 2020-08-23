@@ -15,7 +15,7 @@ TazIntermediate+AxisZ_Truck-Double
 
 #bundle,dstpn,mult,qty,dst,mark,provider,path
 ###BUNDLE-magic-START###
-Axis_Z-Truck.fcstd,,,2
+Axis_Z-Truck.fcstd,,2,2,,,,
 ###BUNDLE-magic-stop###
 
 #item,dstpn,mult,qty,dst,mark,provider,path

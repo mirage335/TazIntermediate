@@ -19,9 +19,9 @@ TazIntermediate+AxisZ_Mid-Stationary+Thruster-LeadScrew
 
 #item,dstpn,mult,qty,dst,mark,provider,path
 ###ITEM-magic-START###
-ShimFlexiblePreload-8mm.fcstd,,,1
-Shim Washer 8mm.step,,,2
-Threaded Rod Plate Nema 17-Idler.fcstd,,,1
-Lock Collar 8mm.step,,,1
-Ball Bearing 8 x 16 x 5.step,,,1
+ShimFlexiblePreload-8mm.fcstd,,2,1,,,,
+Shim Washer 8mm.step,,4,2,,,,
+Threaded Rod Plate Nema 17-Idler.fcstd,,2,1,,,,
+Lock Collar 8mm.step,,2,1,,,,
+Ball Bearing 8 x 16 x 5.step,,2,1,,,,
 ###ITEM-magic-stop###

@@ -15,13 +15,13 @@ TazIntermediate+AxisZ_Truck-Double+AxisZ_Truck
 
 #bundle,dstpn,mult,qty,dst,mark,provider,path
 ###BUNDLE-magic-START###
-Vwheel-Corner-Eccentric-ThinHex.fcstd,,,2
+Vwheel-Corner-Eccentric-ThinHex.fcstd,,4,2,,,,
 ###BUNDLE-magic-stop###
 
 #item,dstpn,mult,qty,dst,mark,provider,path
 ###ITEM-magic-START###
-V-Slot 20x40x120mm.FCStd,,,1
-Grease Nipple M6.STEP,,,1
-L Bracket Triple.step,,,1
-8mm Acme Nut Plate.step,,,2
+V-Slot 20x40x120mm.FCStd,,2,1,,,,
+Grease Nipple M6.STEP,,2,1,,,,
+L Bracket Triple.step,,2,1,,,,
+8mm Acme Nut Plate.step,,4,2,,,,
 ###ITEM-magic-stop###

@@ -15,11 +15,11 @@ TazIntermediate+Axis_X-Actuator
 
 #bundle,dstpn,mult,qty,dst,mark,provider,path
 ###BUNDLE-magic-START###
-Thruster-Belt.fcstd,,,1
-Driver-Belt.fcstd,,,1
+Thruster-Belt.fcstd,,1,1,,,,
+Driver-Belt.fcstd,,1,1,,,,
 ###BUNDLE-magic-stop###
 
 #item,dstpn,mult,qty,dst,mark,provider,path
 ###ITEM-magic-START###
-V-Slot 20x60x760mm.fcstd,,,1
+V-Slot 20x60x760mm.fcstd,,1,1,,,,
 ###ITEM-magic-stop###

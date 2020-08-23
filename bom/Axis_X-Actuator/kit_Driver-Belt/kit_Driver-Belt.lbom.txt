@@ -19,7 +19,7 @@ kit+Driver-Belt
 
 #item,dstpn,mult,qty,dst,mark,provider,path
 ###ITEM-magic-START###
-Nema 17 Stepper Motor.step,,,1
-Motor Mount Plate Nema 17.step,,,1
-GT2 Timing Pulley 14 Tooth.step,,,1
+Nema 17 Stepper Motor.step,,1,1,,,,
+Motor Mount Plate Nema 17.step,,1,1,,,,
+GT2 Timing Pulley 14 Tooth.step,,1,1,,,,
 ###ITEM-magic-stop###

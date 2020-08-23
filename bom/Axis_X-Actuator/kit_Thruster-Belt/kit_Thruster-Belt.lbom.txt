@@ -19,9 +19,9 @@ kit+Thruster-Belt
 
 #item,dstpn,mult,qty,dst,mark,provider,path
 ###ITEM-magic-START###
-Smooth Idler Pulley Wheel.step,,,1,,,,,$5.99
-Precision Shim 10 x 5 x 1.step,,,1,,,,,+0
-Idler Pulley Plate.step,,,1,,,,,
-Nylon Spacer 0.125in.step,,,1,,,,,+0
-Ball Bearing 5 x 16 x 5.step,,,2,,,,,+0
+Smooth Idler Pulley Wheel.step,,1,1,,,,,$5.99
+Precision Shim 10 x 5 x 1.step,,1,1,,,,,+0
+Idler Pulley Plate.step,,1,1,,,,
+Nylon Spacer 0.125in.step,,1,1,,,,,+0
+Ball Bearing 5 x 16 x 5.step,,2,2,,,,,+0
 ###ITEM-magic-stop###

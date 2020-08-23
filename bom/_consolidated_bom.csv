@@ -1,22 +1,55 @@
 #item,dstpn,mult,qty,dst,mark,provider,path
-Ball Bearing 5 x 16 x 5.step,,8,0,,,,,+0
-Black Angle Corner Connector.step,,7,0,OpenBuilds,,,
-Cast Corner Bracket.step,,1,0,,,,
+20series-1x1_160mm.fcstd,,2,0,,,,
+20series-1x1_500mm.fcstd,,4,0,,,,
+20series-1x1_545mm.fcstd,,4,0,,,,
+20series-1x1-60mm.fcstd,,1,0,,,,
+20series-1x1-crossbar.fcstd,,1,0,,,,
+20series-1x1-postX.fcstd,,2,0,,,,
+20series-1x1-postY.fcstd,,2,0,,,,
+8mm Acme Nut Plate.step,,4,0,,,,
+Aluminum Spacer 1.5in.step,,6,0,,,,
+Ball Bearing 5 x 16 x 5.step,,28,0,,,,,+0
+Ball Bearing 8 x 16 x 5.step,,4,0,,,,
+Black Angle Corner Connector.step,,21,0,OpenBuilds,,,
+Cast Corner Bracket.step,,7,0,,,,
 Cube Corner Connector.step,,6,0,,,,
-Eccentric Spacer 6mm.step,,4,0,,,,,$1.99
-Joining Plate 90 Degree.step,,2,0,,,,
-Joining Plate T.step,,1,0,,,,
-L Bracket Triple.step,,1,0,OpenBuilds,,,
+Eccentric Spacer 6mm.step,,12,0,,,,,$1.99
+Flexible Coupling 5mm x 8mm.step,,2,0,,,,
+gantryPlate.fcstd,,5,0,,,,,$31
+Grease Nipple M6.STEP,,2,0,,,,
+GT2 Timing Pulley 14 Tooth.step,,2,0,,,,
+Idler Pulley Plate.step,,2,0,,,,
+Joining Plate 90 Degree.step,,14,0,,,,
+Joining Plate T.step,,7,0,,,,
+L Bracket Triple.step,,3,0,OpenBuilds,,,
+LeadScrew_8mm-520mm.fcstd,,2,0,,,,
+Lock Collar 8mm.step,,4,0,,,,
 LulzBotExtruder_Carriage_Block.fcstd,,1,0,,,,
 LulzBot_Extruder-LulzBot_Mount,,1,0,,,,,$200.00
 Micro Limit Switch Plate.step,,3,0,OpenBuilds,,,
-Precision Shim 8 x 5 x 1.step,,8,0,,,,,+0
+Motor Mount Plate Nema 17.step,,2,0,,,,
+Nema 17 Stepper Motor.step,,4,0,,,,
+Nylon Spacer 0.125in.step,,2,0,,,,,+0
+paper binder1.fcstd,,4,0,,,,
+Precision Shim 10 x 5 x 1.step,,2,0,,,,,+0
+Precision Shim 8 x 5 x 1.step,,24,0,,,,,+0
+ShimFlexiblePreload-8mm.fcstd,,2,0,,,,
+Shim Washer 8mm.step,,6,0,,,,
+Smooth Idler Pulley Wheel.step,,2,0,,,,,$5.99
 SS_01GL_E.FCStd,,3,0,,LimitSwitch,,
-ThinHexNut-Modified Nylon Insert Lock Nut M5.step,,4,0,,,,
+TAZ 5 Y Plate Assembly V0.21-slab_legacy_only.step,,1,0,,,,,$200
+ThinHexNut-Modified Nylon Insert Lock Nut M5.step,,12,0,,,,
+Threaded Rod Plate Nema 17-Idler.fcstd,,2,0,,,,
+Threaded Rod Plate Nema 17.step,,2,0,,,,
 V-Slot 20x20x140mm.FCStd,,3,0,,,,
 V-Slot 20x20x220mm.FCStd,,1,0,,,,
 V-Slot 20x20x40mm.FCStd,,1,0,,,,
+V-Slot 20x20x540mm.FCStd,,2,0,,,,
 V-Slot 20x20x60mm.FCStd,,2,0,,,,
 V-Slot 20x20x80mm.FCStd,,1,0,,,,
+V-Slot 20x40x120mm.FCStd,,2,0,,,,
+V-Slot 20x40x500mm.FCStd,,2,0,,,,
 V-Slot 20x60x220mm.fcstd,,1,0,,,,
-Xtreme Solid V Wheel.step,,4,0,,,,,$6.99
+V-Slot 20x60x760mm.fcstd,,1,0,,,,
+Xtreme Solid V Wheel.step,,12,0,,,,,$6.99
+XYplate.fcstd,,1,0,,,,,$72.00

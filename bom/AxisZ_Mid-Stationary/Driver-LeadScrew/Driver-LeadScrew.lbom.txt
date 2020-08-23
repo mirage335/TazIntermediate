@@ -19,11 +19,11 @@ TazIntermediate+AxisZ_Mid-Stationary+Driver-LeadScrew
 
 #item,dstpn,mult,qty,dst,mark,provider,path
 ###ITEM-magic-START###
-Lock Collar 8mm.step,,,1
-Flexible Coupling 5mm x 8mm.step,,,1
-Aluminum Spacer 1.5in.step,,,3
-Nema 17 Stepper Motor.step,,,1
-Threaded Rod Plate Nema 17.step,,,1
-Ball Bearing 8 x 16 x 5.step,,,1
-Shim Washer 8mm.step,,,1
+Lock Collar 8mm.step,,2,1,,,,
+Flexible Coupling 5mm x 8mm.step,,2,1,,,,
+Aluminum Spacer 1.5in.step,,6,3,,,,
+Nema 17 Stepper Motor.step,,2,1,,,,
+Threaded Rod Plate Nema 17.step,,2,1,,,,
+Ball Bearing 8 x 16 x 5.step,,2,1,,,,
+Shim Washer 8mm.step,,2,1,,,,
 ###ITEM-magic-stop###

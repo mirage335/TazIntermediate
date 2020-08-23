@@ -19,7 +19,7 @@ TazIntermediate+AxisZ_Mid-Stationary+MidSquare
 
 #item,dstpn,mult,qty,dst,mark,provider,path
 ###ITEM-magic-START###
-Joining Plate 90 Degree.step,,,4
-20series-1x1_500mm.fcstd,,,2
-20series-1x1_545mm.fcstd,,,2
+Joining Plate 90 Degree.step,,8,4,,,,
+20series-1x1_500mm.fcstd,,4,2,,,,
+20series-1x1_545mm.fcstd,,4,2,,,,
 ###ITEM-magic-stop###
