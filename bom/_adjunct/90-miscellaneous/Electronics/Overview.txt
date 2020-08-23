@@ -1,0 +1,10 @@
+*) RAMBO Motherboard (~$150)
+*) PatchRap (~$150)
+
+*) Enclosures. Prefer at least highly water resistant junction boxes with transparent lids.
+
+*) PSU. 24V 20A.
+
+*) Wiring. Cat5E entire bundle as single wire to heated bed, or high-temperature silicone wire. Cat6A RJ45 interconnect, always same length.
+
+*) XT60, RJ45 Keystone Jacks, Breadboards.

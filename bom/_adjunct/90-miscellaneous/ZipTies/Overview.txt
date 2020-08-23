@@ -1,0 +1,3 @@
+Zip Ties... are strongly recommended for a variety of uses.
+
+Specifically, attachment of extruder chasis fan, attachment of depth probe, and binding wiring/tubing to machine for strain relief, may require zip ties.

@@ -1,0 +1,64 @@
+
+
+
+*) M5 Screws
+Torque applied should be maximum possible before damaging the threads of the Tee nut or screw. If necessary, practice a few trial runs to determine equivalent drill clutch setting or get a manual feel for maxium torque. Maximum torque ensures maximum pressure, ensuring long-term stability and mitigating vibration affecting different parts of the machine separately.
+
+In addition to the estimated screws and related components (ie. nuts), driver bits should be regarded as consumable at a rate of at least one or two per machine. Buy hex 3mm driver bit and hex 3mm 'key wrench' packs, and grind down as necessary. Worn bits are more likely to cam out, risking severe damage or inconvenience.
+
+M5 (and less likely M3) drill tap is also required.
+
+Small quantities of M3 screws may be commonly needed by Tool and Slab.
+
+At least equal number of Tee nuts required.
+
+
+
+183 Typical guesstimate
+	M5*8mm measured
+32 1/4inch plate guesstimate
+	M5*12mm measured
+
+	Typical
+		*6
+	
+	Idler
+		M5x25mm (+0)
+			* 2 (+0)
+	V-Wheel Axle
+		* 12
+	
+	AxisY
+		1/4inch plate
+			* 8
+		Typical
+			* 12
+	
+	Slab
+		Belt Tension
+			* 2
+		Typical
+			* 34
+	
+	Axis_X-Actuator
+		Typical
+			* 4
+	
+	AxisZ
+		Typical
+			* 65
+		1/4inch plate
+			* 20
+	
+	AxisZ_Truck-Double
+		Typical
+			* 24
+		Anti-Backlash
+			* 4
+	
+	LulzBotExtruder_Example_Stock
+		1/4inch plate
+			* 4
+		Typical
+			* 38
+

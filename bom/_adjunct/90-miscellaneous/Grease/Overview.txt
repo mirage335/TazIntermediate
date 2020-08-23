@@ -1,0 +1,14 @@
+
+V-Slot Linear Bearing surfaces, V-Wheel Ball Bearings (spread on top before assembly), and Z-axis grease points must only use Super Lube 41150 Synthetic Grease grease.
+
+NEMA17 motor ball bearings may or may not benefit from grease. Do not attempt to use silicone based grease - the higher friction displacing any factory oil may cause more harm than benefit.
+
+https://smile.amazon.com/dp/B0042FG74W/
+
+
+
+
+Only belts must only use silicone based PTFE grease, due to chemical compatibility with neoprene. Severe wear to belt and pulleys will result without this specific grease..
+https://smile.amazon.com/gp/product/B0081JE0OO/
+
+

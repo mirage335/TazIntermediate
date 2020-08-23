@@ -1,0 +1,12 @@
+
+
+A guide tube should be mounted at a fixed location on the machine to prevent filament from pulling back on the tool during high speed movement.
+
+If this tube may be repurposed as a bowden tube, Capricorn XS tubing should be used with Capricorn fittings.
+
+
+_Reference_
+
+https://www.captubes.com/shop/#!/2-Meter-XS-Low-Friction-2-85mm-Bowden-Tubing/p/103183531/category=23214267
+
+https://smile.amazon.com/PTFE-Teflon-tubing-5ft-Filament/dp/B07B8KMNQN/ref=sr_1_3?dchild=1&keywords=ptfe+tubing+4mm+ID&qid=1598217562&sr=8-3

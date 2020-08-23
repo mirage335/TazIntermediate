@@ -1,0 +1,3 @@
+
+Clear Polycarbonate and Clear TPU are recommended for such parts as the Stock Extruder Mount, custom probe mounts (if not metal), and flexible shims (used to compress lock collars used on ACME Threaded Rods).
+
