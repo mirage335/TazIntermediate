@@ -1,0 +1,27 @@
+###COMMENTS-magic-START###
+SledY-QuickSwap
+
+...Hiearchy
+TazIntermediate+Slab+SledY-QuickSwap
+
+...Paths
+/dev/shm/uk4u/yo050wjd/0100-Bundle/0150-Actuators/SledY-QuickSwap.fcstd
+
+###COMMENTS-magic-stop###
+
+###MULTIPLIER-magic-START###
+1
+###MULTIPLIER-magic-stop###
+
+#bundle,dstpn,mult,qty,dst,mark,provider,path
+###BUNDLE-magic-START###
+BeltAnchor-SledY.fcstd,,1,1,,,,
+Vwheel-Corner-Double.fcstd,,2,2,,,,
+###BUNDLE-magic-stop###
+
+#item,dstpn,mult,qty,dst,mark,provider,path
+###ITEM-magic-START###
+20series-1x1-crossbar.fcstd,,1,1,,,,
+20series-1x1-postY.fcstd,,2,2,,,,
+Joining Plate T.step,,2,2,,,,
+###ITEM-magic-stop###

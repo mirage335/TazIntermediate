@@ -1,0 +1,25 @@
+###COMMENTS-magic-START###
+MidSquare
+
+...Hiearchy
+TazIntermediate+AxisZ_Mid-Stationary+MidSquare
+
+...Paths
+/dev/shm/uk4u/kyn2nteu/0100-Bundle/0110-Frames/AxisZ_Mid/0100-Bundle/0110-Frames/MidSquare.fcstd
+
+###COMMENTS-magic-stop###
+
+###MULTIPLIER-magic-START###
+2
+###MULTIPLIER-magic-stop###
+
+#bundle,dstpn,mult,qty,dst,mark,provider,path
+###BUNDLE-magic-START###
+###BUNDLE-magic-stop###
+
+#item,dstpn,mult,qty,dst,mark,provider,path
+###ITEM-magic-START###
+Joining Plate 90 Degree.step,,,4
+20series-1x1_500mm.fcstd,,,2
+20series-1x1_545mm.fcstd,,,2
+###ITEM-magic-stop###

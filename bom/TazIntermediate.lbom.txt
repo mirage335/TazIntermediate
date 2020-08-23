@@ -15,6 +15,9 @@ Some bundles use only identical parts lists - these have been reduced to single 
 'LimitSwitch'
 'LimitSwitch-forward'
 
+'Axis_Z-Truck'
+'Axis_Z-Truck_Flip'
+
 ###COMMENTS-magic-stop###
 
 ###MULTIPLIER-magic-START###

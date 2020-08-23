@@ -1,0 +1,25 @@
+###COMMENTS-magic-START###
+BeltAnchor-SledY
+
+...Hiearchy
+TazIntermediate+Slab+SledY-QuickSwap+BeltAnchor-SledY
+
+...Paths
+/dev/shm/uk4u/yo050wjd/0100-Bundle/0150-Actuators/BeltAnchor-SledY.fcstd
+
+###COMMENTS-magic-stop###
+
+###MULTIPLIER-magic-START###
+1
+###MULTIPLIER-magic-stop###
+
+#bundle,dstpn,mult,qty,dst,mark,provider,path
+###BUNDLE-magic-START###
+###BUNDLE-magic-stop###
+
+#item,dstpn,mult,qty,dst,mark,provider,path
+###ITEM-magic-START###
+Cast Corner Bracket.step,,2,2,,,,
+Black Angle Corner Connector.step,,1,1,,,,
+20series-1x1-60mm.fcstd,,1,1,,,,
+###ITEM-magic-stop###

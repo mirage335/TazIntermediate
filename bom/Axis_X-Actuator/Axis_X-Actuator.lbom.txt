@@ -1,0 +1,25 @@
+###COMMENTS-magic-START###
+Axis_X-Actuator
+
+...Hiearchy
+TazIntermediate+Axis_X-Actuator
+
+...Paths
+/dev/shm/uk4u/kyn2nteu/0100-Bundle/0110-Frames/AxisX/0100-Bundle/0150-Actuators/Axis_X-Actuator.fcstd
+
+###COMMENTS-magic-stop###
+
+###MULTIPLIER-magic-START###
+1
+###MULTIPLIER-magic-stop###
+
+#bundle,dstpn,mult,qty,dst,mark,provider,path
+###BUNDLE-magic-START###
+Thruster-Belt.fcstd,,,1
+Driver-Belt.fcstd,,,1
+###BUNDLE-magic-stop###
+
+#item,dstpn,mult,qty,dst,mark,provider,path
+###ITEM-magic-START###
+V-Slot 20x60x760mm.fcstd,,,1
+###ITEM-magic-stop###

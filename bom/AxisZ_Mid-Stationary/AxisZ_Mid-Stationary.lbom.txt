@@ -1,0 +1,29 @@
+###COMMENTS-magic-START###
+AxisZ_Mid-Stationary
+
+...Hiearchy
+TazIntermediate+AxisZ_Mid-Stationary
+
+...Paths
+/dev/shm/uk4u/kyn2nteu/0100-Bundle/0110-Frames/AxisZ_Mid/AxisZ_Mid-Stationary.fcstd
+
+###COMMENTS-magic-stop###
+
+###MULTIPLIER-magic-START###
+1
+###MULTIPLIER-magic-stop###
+
+#bundle,dstpn,mult,qty,dst,mark,provider,path
+###BUNDLE-magic-START###
+Thruster-LeadScrew.fcstd,,,2
+Driver-LeadScrew.fcstd,,,2
+MidSquare.fcstd,,,2
+###BUNDLE-magic-stop###
+
+#item,dstpn,mult,qty,dst,mark,provider,path
+###ITEM-magic-START###
+gantryPlate.fcstd,,,5
+LeadScrew_8mm-520mm.fcstd,,,2
+V-Slot 20x40x500mm.FCStd,,,2
+Black Angle Corner Connector.step,,,5
+###ITEM-magic-stop###

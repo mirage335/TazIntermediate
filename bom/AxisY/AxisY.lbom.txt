@@ -1,0 +1,29 @@
+###COMMENTS-magic-START###
+AlsoKnownAs...ModelOrBundleName
+ModelOrBundleName
+
+...Hiearchy
+Bundle+Bundle+ModelOrBundleName
+
+...Paths
+/dev/shm/uk4u/.../UsuallyModelOrBundleName.fcstd
+
+###COMMENTS-magic-stop###
+
+###MULTIPLIER-magic-START###
+1
+###MULTIPLIER-magic-stop###
+
+#bundle,dstpn,mult,qty,dst,mark,provider,path
+###BUNDLE-magic-START###
+Thruster-Belt.fcstd,,,1
+Driver-Belt.fcstd,,,1
+###BUNDLE-magic-stop###
+
+#item,dstpn,mult,qty,dst,mark,provider,path
+###ITEM-magic-START###
+20series-1x1_160mm.fcstd,,,2
+XYplate.fcstd,,,1,,,,,$72.00
+V-Slot 20x20x540mm.FCStd,,,2
+Cast Corner Bracket.step,,,4
+###ITEM-magic-stop###

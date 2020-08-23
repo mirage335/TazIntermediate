@@ -1,0 +1,29 @@
+###COMMENTS-magic-START###
+Slab
+
+...Hiearchy
+TazIntermediate+Slab
+
+...Paths
+/dev/shm/uk4u/kyn2nteu/0100-Bundle/0165-Slab/Slab.fcstd
+/dev/shm/uk4u/yo050wjd/Slab.fcstd
+
+###COMMENTS-magic-stop###
+
+###MULTIPLIER-magic-START###
+1
+###MULTIPLIER-magic-stop###
+
+#bundle,dstpn,mult,qty,dst,mark,provider,path
+###BUNDLE-magic-START###
+SledY-QuickSwap.fcstd,,1,1,,,,
+###BUNDLE-magic-stop###
+
+#item,dstpn,mult,qty,dst,mark,provider,path
+###ITEM-magic-START###
+Joining Plate 90 Degree.step,,4,4,,,,
+paper binder1.fcstd,,4,4,,,,
+TAZ 5 Y Plate Assembly V0.21-slab_legacy_only.step,,1,1,,,,,$200
+Joining Plate T.step,,4,4,,,,
+20series-1x1-postX.fcstd,,2,2,,,,
+###ITEM-magic-stop###

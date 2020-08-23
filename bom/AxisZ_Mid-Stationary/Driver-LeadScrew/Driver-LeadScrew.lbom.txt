@@ -1,0 +1,29 @@
+###COMMENTS-magic-START###
+Driver-LeadScrew
+
+...Hiearchy
+TazIntermediate+AxisZ_Mid-Stationary+Driver-LeadScrew
+
+...Paths
+/dev/shm/uk4u/kyn2nteu/0100-Bundle/0110-Frames/AxisZ_Mid/0100-Bundle/0151z-Thruster-Driver/Driver-LeadScrew.fcstd
+
+###COMMENTS-magic-stop###
+
+###MULTIPLIER-magic-START###
+2
+###MULTIPLIER-magic-stop###
+
+#bundle,dstpn,mult,qty,dst,mark,provider,path
+###BUNDLE-magic-START###
+###BUNDLE-magic-stop###
+
+#item,dstpn,mult,qty,dst,mark,provider,path
+###ITEM-magic-START###
+Lock Collar 8mm.step,,,1
+Flexible Coupling 5mm x 8mm.step,,,1
+Aluminum Spacer 1.5in.step,,,3
+Nema 17 Stepper Motor.step,,,1
+Threaded Rod Plate Nema 17.step,,,1
+Ball Bearing 8 x 16 x 5.step,,,1
+Shim Washer 8mm.step,,,1
+###ITEM-magic-stop###

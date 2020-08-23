@@ -1,0 +1,27 @@
+###COMMENTS-magic-START###
+Thruster-LeadScrew
+
+...Hiearchy
+TazIntermediate+AxisZ_Mid-Stationary+Thruster-LeadScrew
+
+...Paths
+/dev/shm/uk4u/kyn2nteu/0100-Bundle/0110-Frames/AxisZ_Mid/0100-Bundle/0151z-Thruster-Driver/Thruster-LeadScrew.fcstd
+
+###COMMENTS-magic-stop###
+
+###MULTIPLIER-magic-START###
+2
+###MULTIPLIER-magic-stop###
+
+#bundle,dstpn,mult,qty,dst,mark,provider,path
+###BUNDLE-magic-START###
+###BUNDLE-magic-stop###
+
+#item,dstpn,mult,qty,dst,mark,provider,path
+###ITEM-magic-START###
+ShimFlexiblePreload-8mm.fcstd,,,1
+Shim Washer 8mm.step,,,2
+Threaded Rod Plate Nema 17-Idler.fcstd,,,1
+Lock Collar 8mm.step,,,1
+Ball Bearing 8 x 16 x 5.step,,,1
+###ITEM-magic-stop###

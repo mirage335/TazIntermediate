@@ -1,0 +1,27 @@
+###COMMENTS-magic-START###
+AxisZ_Truck
+
+...Hiearchy
+TazIntermediate+AxisZ_Truck-Double+AxisZ_Truck
+
+...Paths
+/dev/shm/uk4u/kyn2nteu/0100-Bundle/0110-Frames/AxisZ_Mid/0100-Bundle/0150-Actuators/Axis_Z-Truck.fcstd
+
+###COMMENTS-magic-stop###
+
+###MULTIPLIER-magic-START###
+2
+###MULTIPLIER-magic-stop###
+
+#bundle,dstpn,mult,qty,dst,mark,provider,path
+###BUNDLE-magic-START###
+Vwheel-Corner-Eccentric-ThinHex.fcstd,,,2
+###BUNDLE-magic-stop###
+
+#item,dstpn,mult,qty,dst,mark,provider,path
+###ITEM-magic-START###
+V-Slot 20x40x120mm.FCStd,,,1
+Grease Nipple M6.STEP,,,1
+L Bracket Triple.step,,,1
+8mm Acme Nut Plate.step,,,2
+###ITEM-magic-stop###

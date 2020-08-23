@@ -51,6 +51,21 @@ Do not enable stepper release. Z-axis must hold while changing filament.
 #define SD_FINISHED_STEPPERRELEASE true
 
 
+----- SAFETY NOTICES -----
+
+DANGER! KEEP HANDS CLEAR
+UNUSUAL HAZARDS - HIGH SPEED, HIGH RIGIDITY, HIGH HEAT!
+
+ALWAYS INCLUDE SAFETY MARGINS WITH ENDSTOP AND PROBE!
+RIGIDITY AND FORCE SUFFICIENT TO CAUSE PERMANENT DAMAGE!
+BEWARE BROKEN GLASS!
+
+AVOID CONTACT WITH HIGH-VOLTAGE OR WET CONTACT WITH LOW-VOLTAGE!
+
+INDUSTRIAL OEM EQUIPMENT!
+Distributed WITHOUT ANY WARRANTY, without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE .
+
+
 ----- Copyright Notices -----
 Several authors may have GPL copyright claims, consequently, incorporated source material must be include in any distribution - mirage335, AlephObjects, MarlinFirmware .
 "This design incorporates OpenBuilds, LLC design work(s) shared Open Source under the CC BY-SA 4.0 License."
@@ -60,3 +75,4 @@ Please see a copy of the relevant source repositories, which should have been in
 
 ----- Remove this line and below if not experimental. -----
 Experimental. Items may be swapped. Especially, motors and chasis cooling.
+
