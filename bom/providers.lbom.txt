@@ -18,6 +18,56 @@ Bundle+Bundle+ModelOrBundleName
 ###BUNDLE-magic-START###
 ###BUNDLE-magic-stop###
 
-#item,dstpn,mult,qty,dst,mark,provider,path
+#item,dstpn,mult,qty,dst,mark,provider,path,cost
 ###ITEM-magic-START###
+20series-1x1_160mm.fcstd,,0,0,8020,,,
+20series-1x1_500mm.fcstd,,0,0,8020,20-2020-2440mm,,
+20series-1x1_545mm.fcstd,,0,0,8020,20-2020-2440mm,,
+20series-1x1-60mm.fcstd,,0,0,8020,,,
+20series-1x1-crossbar.fcstd,,0,0,8020,,,
+20series-1x1-postX.fcstd,,0,0,8020,,,
+20series-1x1-postY.fcstd,,0,0,8020,20-2020-2440mm,,
+8mm Acme Nut Plate.step,,0,0,OpenBuilds,,,,$6.99
+Aluminum Spacer 1.5in.step,,0,0,OpenBuilds,,,
+Ball Bearing 8 x 16 x 5.step,,0,0,OpenBuilds,,,,$0.99
+Black Angle Corner Connector.step,,0,0,OpenBuilds,,,,$2.99
+Cast Corner Bracket.step,,0,0,OpenBuilds,,,,$1.49
+Cube Corner Connector.step,,0,0,OpenBuilds,,,,$3.49
+Eccentric Spacer 6mm.step,,0,0,OpenBuilds,,,,$1.99
+Flexible Coupling 5mm x 8mm.step,,0,0,OpenBuilds,,,,$6.99
+gantryPlate.fcstd,,0,0,eMachineShop,,,,$31.00
+Grease Nipple M6.STEP,,0,0,Amazon,,,,$0.50
+GT2 Timing Pulley 14 Tooth.step,,0,0,OpenBuilds,,,,$5.29
+Idler Pulley Plate.step,,0,0,OpenBuilds,,,,$6.99
+Joining Plate 90 Degree.step,,0,0,OpenBuilds,,,,$4.99
+Joining Plate T.step,,0,0,OpenBuilds,,,,$3.99
+L Bracket Triple.step,,0,0,OpenBuilds,,,,$1.99
+LeadScrew_8mm-520mm.fcstd,,0,0,OpenBuilds,,,,$21.99
+Lock Collar 8mm.step,,0,0,OpenBuilds,,,,$0.99
+LulzBotExtruder_Carriage_Block.fcstd,,0,0,,,,
+LulzBot_Extruder-LulzBot_Mount,,0,0,,,,,$200.00
+Micro Limit Switch Plate.step,,0,0,OpenBuilds,,,,$7.00
+Motor Mount Plate Nema 17.step,,0,0,OpenBuilds,,,,$6.99
+Nema 17 Stepper Motor.step,,0,0,OpenBuilds,,,,$17.99
+paper binder1.fcstd,,0,0,Amazon,,,
+ShimFlexiblePreload-8mm.fcstd,,0,0,,,,
+Shim Washer 8mm.step,,0,0,OpenBuilds,Shim - 12 x 8 x 1mm,,,$0.29
+Smooth Idler Pulley Wheel.step,,0,0,OpenBuilds,,,,$5.99
+SS_01GL_E.FCStd,,0,0,,LimitSwitch,,
+TAZ 5 Y Plate Assembly V0.21-slab_legacy_only.step,,0,0,,,,,$200.00
+ThinHexNut-Modified Nylon Insert Lock Nut M5.step,,0,0,OpenBuilds,,,,$0.10
+Threaded Rod Plate Nema 17-Idler.fcstd,,0,0,OpenBuilds,,,,$7.99
+Threaded Rod Plate Nema 17.step,,0,0,OpenBuilds,,,,$7.99
+V-Slot 20x20x140mm.FCStd,,0,0,OpenBuilds,,,,
+V-Slot 20x20x220mm.FCStd,,0,0,OpenBuilds,,,,
+V-Slot 20x20x40mm.FCStd,,0,0,OpenBuilds,,,,
+V-Slot 20x20x540mm.FCStd,,0,0,OpenBuilds,,,,
+V-Slot 20x20x60mm.FCStd,,0,0,OpenBuilds,,,,
+V-Slot 20x20x80mm.FCStd,,0,0,OpenBuilds,,,,
+V-Slot 20x40x120mm.FCStd,,0,0,OpenBuilds,,,
+V-Slot 20x40x500mm.FCStd,,0,0,OpenBuilds,,,,$6.99
+V-Slot 20x60x220mm.fcstd,,0,0,OpenBuilds,,,
+V-Slot 20x60x760mm.fcstd,,0,0,OpenBuilds,20x60 x1000mm,,
+Xtreme Solid V Wheel.step,,0,0,OpenBuilds,,,,$6.99
+XYplate.fcstd,,0,0,eMachineShop,,,,$72.00
 ###ITEM-magic-stop###
