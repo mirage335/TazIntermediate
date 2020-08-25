@@ -14,7 +14,11 @@ Please read "_doc/TazIntermediate_serviceManual.pdf" .
 
 # Distribution
 
-Consider providing end-users an entire copy of this repository with all submodules, in addition to PDF documents. Physical USB flash devices may be suitable for the repository, printed hardcopy may be suitable for the PDF documents.
+REPUTABLE PROVIDERS OF TazIntermediate HARDWARE AND DESIGN FILES SHOULD INCLUDE IN YOUR ORDER A VERIFIABLE SERIAL NUMBER, GIT HASH, AND FULL COPY OF THE DESIGN FILES WITH ANY MODIFICATIONS.
+
+Beware many of the assembly steps require careful attention to preloading, equal length cuts, strict order of operations, and correct alloy/tempering, among other things, for expected precision, accuracy, and durability. Intentionally little redundancy is available to compensate for poor quality components.
+
+Consider providing end-users an entire copy of this repository with all submodules, in addition to PDF documents. Physical SDCard/USB flash devices may be suitable for the repository, printed hardcopy may be suitable for the PDF documents.
 
 
 # Design
