@@ -1,4 +1,4 @@
-To be noted on a document attached to machine under waterproof enclosure.
+/*To be noted on a document attached to machine under waterproof enclosure.
 
 MOTORS MUST HOLD WHILE CHANGING TOOL/FILAMENT OR Z-AXIS WILL BE BACKDRIVEN OUT OF ALIGNMENT!
 
@@ -13,16 +13,18 @@ microsteps/mm Z		400
 
 Motor current 1.7A or less if downgraded.
 	Marlin/RAMBO firmware 255 'DIGIPOT_MOTOR_CURRENT' setting.
+*/
 
+#define MOTHERBOARD BOARD_RAMBO
 
-Marlin/RAMBO Known Stepper Driver Microstepping mode table...
+//Marlin/RAMBO Known Stepper Driver Microstepping mode table...
 #define MICROSTEP1 LOW,LOW
 #define MICROSTEP2 HIGH,LOW
 #define MICROSTEP4 LOW,HIGH
 #define MICROSTEP8 HIGH,HIGH
 #define MICROSTEP16 HIGH,HIGH
 
-Marlin/RAMBO Known Endstop/Direction Configuration
+//Marlin/RAMBO Known Endstop/Direction Configuration
 #define INVERT_X_DIR false    // for LulzBot set to false
 #define INVERT_Y_DIR true    // for LulzBot set to true
 #define INVERT_Z_DIR false     // for LulzBot set to false
@@ -46,12 +48,12 @@ const bool Z_MAX_ENDSTOP_INVERTING = false; // set to true to invert the logic o
 #define Z_MAX_POS 270
 #define Z_MIN_POS 0
 
-Do not enable stepper release. Z-axis must hold while changing filament.
+//Do not enable stepper release. Z-axis must hold while changing filament.
 #define DEFAULT_STEPPER_DEACTIVE_TIME 60
 #define SD_FINISHED_STEPPERRELEASE true
 
 
------ SAFETY NOTICES -----
+/*----- SAFETY NOTICES -----
 
 DANGER! KEEP HANDS CLEAR
 UNUSUAL HAZARDS - HIGH SPEED, HIGH RIGIDITY, HIGH HEAT!
@@ -63,16 +65,16 @@ BEWARE BROKEN GLASS!
 AVOID CONTACT WITH HIGH-VOLTAGE OR WET CONTACT WITH LOW-VOLTAGE!
 
 INDUSTRIAL OEM EQUIPMENT!
-Distributed WITHOUT ANY WARRANTY, without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE .
+Distributed WITHOUT ANY WARRANTY, without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE .*/
 
 
------ Copyright Notices -----
+/*----- Copyright Notices -----
 Several authors may have GPL copyright claims, consequently, incorporated source material must be include in any distribution - mirage335, AlephObjects, MarlinFirmware .
 "This design incorporates OpenBuilds, LLC design work(s) shared Open Source under the CC BY-SA 4.0 License."
 Other third party material may be incorporated as well.
-Please see a copy of the relevant source repositories, which should have been included entirely due to the large set of GPL licensed source incorporated.
+Please see a copy of the relevant source repositories, which should have been included entirely due to the large set of GPL licensed source incorporated.*/
 
 
------ Remove this line and below if not experimental. -----
-Experimental. Items may be swapped. Especially, motors and chasis cooling.
+/*----- Remove this line and below if not experimental. -----
+Experimental. Items may be swapped. Especially, motors and chasis cooling.*/
 
